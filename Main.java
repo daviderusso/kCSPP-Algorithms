@@ -12,7 +12,7 @@ import static java.lang.Integer.parseInt;
 public class Main {
 
     public static void mainGrid(String[] args) throws InterruptedException {
-        String BASE_DIR = "/mnt/DATA/Ricerca/5 - Paper/3 - k-ColorShortestPath/Code/kColorShortestPath/Istanze/";
+        String BASE_DIR = "TODO";
 
         Utils utils = new Utils();
         Instance instance;
